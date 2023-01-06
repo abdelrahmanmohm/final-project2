@@ -1,0 +1,11 @@
+.container{padding: 20px;
+    box-shadow: 1px 1px 10px black,1px 1px 10px black;
+    width:60%;
+}
+
+#btn{
+  margin-left:330px ;color: white; background-color: #22D8B6; width:150px; font-size:20px;  
+}
+#btn:hover{
+    background-color: rgb(175, 207, 119);
+}
